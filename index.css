@@ -11,7 +11,7 @@ body{
 }
 
 .top-bar{
-    color: white; padding-left: 20px;  padding-top: 10px; 
+    color: white; padding-left: 20px; padding-top: 16px;padding-bottom: 16px;
 	display: flex; justify-content: space-between
 }
 
